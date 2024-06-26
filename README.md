@@ -17,4 +17,4 @@
 - Informes
 - Factura electronica
 
-
+Apreciado cliente por favor envia tu numero de licencia al correo facturoe@gmail.com y asi enviarle su codigo de activacion.
