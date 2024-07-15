@@ -18,3 +18,5 @@
 - Instalación en su computador, funciona sin internet
 
 Apreciado cliente por favor envia tu numero de licencia al correo facturoe@gmail.com y asi obtener su codigo de activacion.
+
+- Soporte: facturoe@gmail.com
